@@ -1,1 +1,1 @@
-print("Reports page loaded successfully")
+print("Components page loaded successfully")
