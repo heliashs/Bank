@@ -1,1 +1,1 @@
-print("Main bank page")
+print("Transaction done successfully")
