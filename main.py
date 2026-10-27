@@ -1,1 +1,1 @@
-print("Main bank page")
+print("Reports page loaded successfully")
